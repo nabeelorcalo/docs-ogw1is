@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-pmm64z.pulaucuansite.xyz/sitemap.xml
